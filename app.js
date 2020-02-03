@@ -22,5 +22,11 @@ const Post = () =>{
     console.log('posting ...')
 }
 
+//adding the news module 
+
+const news = () => {
+    console.log('news...')
+}
+
 App();
 

@@ -15,5 +15,12 @@ const Browse = () => {
 const Delete = () => {
     console.log('deleting....')
 }
+
+// adding post function
+
+const Post = () =>{
+    console.log('posting ...')
+}
+
 App();
 

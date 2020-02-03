@@ -9,5 +9,11 @@ const Browse = () => {
     console.log('browsing ...')
 }
 
+
+// adding the new functionality to the app
+
+const Delete = () => {
+    console.log('deleting....')
+}
 App();
 
